@@ -13,7 +13,7 @@
 [/] 2022-07-27 fd 01 solved
 [/] 2022-07-27 collision 02 solved
 [/] 2022-07-27 bof 03 solved
-
+[/] 2022-07-27 passcode 04 solved
 ```
 
 

